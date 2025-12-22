@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on: " Visual Effect in Personal Unity game project "<br>👯 I’m looking to collaborate on: " Open-source Unity tools or indie game projects "<br>🤝 I’m looking for help with: " C# design patterns and Unity Game Design or Visual effect in game "<br>🌱 I’m currently learning: " Visual Effect and advanced Prompt Engineering "<br>💬 Ask me about: " Unity development, Git (Fork, Github desktop) workflows, or game mechanics such as Path of Exile 2 , Dota2 , HollowKnight Silksong "<br>Fun fact: " ⚡ Playing game is the best Learning curve :) "
+🔭 I’m currently working on: " Visual Effect in Personal Unity game project "<br>👯 I’m looking to collaborate on: " Open-source Unity tools or indie game projects "<br>🤝 I’m looking for help with: " C# design patterns and Unity Game Design or Visual effect in game "<br>🌱 I’m currently learning: " Visual Effect and advanced Prompt Engineering "<br>💬 Ask me about: " Unity development, Git (Fork, Github desktop) workflows, or game mechanics such as Path of Exile 2 , Dota2 , HollowKnight Silksong "<br>⚡ Fun fact: " Playing game is the best Learning curve :) "
 
 
 ## 🌐 Socials:
